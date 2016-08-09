@@ -1,3 +1,3 @@
-# starwars-names
+# warcraft-names
 
-For all your random Star Wars character needs
+For all your random Warcract character needs
