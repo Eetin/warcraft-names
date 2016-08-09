@@ -1,7 +1,7 @@
 import {expect} from 'chai'
 import warcraftNames from '.'
 
-describe('starwars-names', () => {
+describe('warcraft-names', () => {
   it('should have a list of all available names', () => {
     expect(warcraftNames.all).to.satisfy(isArrayOfStrings)
   })
