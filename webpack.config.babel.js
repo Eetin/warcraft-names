@@ -1,6 +1,6 @@
-import {join} from 'path'
+import {join} from 'path';
 
-const context = join(__dirname, 'src')
+const context = join(__dirname, 'src');
 
 export default {
   context,
@@ -8,7 +8,7 @@ export default {
   output: {
     path: join(__dirname, 'dist'),
     libraryTarget: 'umd',
-    library: 'starWarsNames',
+    library: 'warcraftNames',
   },
   devtool: 'source-map',
   module: {
@@ -17,4 +17,4 @@ export default {
       {test: /\.json$/, loaders: ['json'], include: context},
     ],
   },
-}
+};
