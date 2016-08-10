@@ -1,4 +1,6 @@
 # warcraft-names
+[![Build Status](https://travis-ci.org/Eetin/warcraft-names.svg?branch=master)](https://travis-ci.org/Eetin/warcraft-names)
+[![codecov](https://codecov.io/gh/Eetin/warcraft-names/branch/master/graph/badge.svg)](https://codecov.io/gh/Eetin/warcraft-names)
 
 For all your random Warcraft character needs
 
