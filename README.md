@@ -26,7 +26,6 @@ If installed via npm, require npm module:
 
 ```js
 var warcraftNames = require('warcraft-names')
-
 ```
 
 Get all names:
