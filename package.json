@@ -1,7 +1,7 @@
 {
   "name": "warcraft-names",
   "version": "0.0.0-semantically-released",
-  "description": "Get random Warcract names",
+  "description": "Get random Warcraft names",
   "main": "dist/index.js",
   "scripts": {
     "commit": "git-cz",
